@@ -1,0 +1,16 @@
+.DS_Store
+.ipynb_checkpoints
+/build/
+[Bb]uild/
+Pods
+Podfile.lock
+*.xcworkspacedata
+/api_init_files_list.txt
+/estimator_api_init_files_list.txt
+*.whl
+project.xcworkspace
+xcshareddata
+xcuserdata
+imagenet_comp_graph_label_strings.txt
+tensorflow_inception_graph.pb
+data/LICENSE
